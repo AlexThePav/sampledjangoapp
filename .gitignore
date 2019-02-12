@@ -1,3 +1,4 @@
 .vscode/*
 polls/__pycache__/*.pyc
+polls/migrations/__pycache__/*.pyc
 sampledjangoapp/__pycache__/*.pyc
